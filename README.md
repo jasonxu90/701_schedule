@@ -4,6 +4,8 @@
 
 *Location*: Virtual at https://duke.zoom.us/j/92364630358 (requires password)
 
+*Time*: M 3:30-4:20pm ET
+
 *Schedule*:
 
 | Date | Talk | Presenter |
