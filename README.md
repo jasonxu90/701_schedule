@@ -16,7 +16,7 @@
 | Feb 15 | An Empirical Understanding of Fast Adversarial Training | Bai Li |
 | Feb 22 | Fiber Bundles in Probabilistic Models  | Henry Kirveslahti |
 | Mar 1 | | |
-| Mar 8 | | | 
+| Mar 8 | | Jordan Bryan | 
 | Mar 15 | Nearest Neighbor Dirichlet Process | Shounak Chattopadhyay |
 | Mar 22 |  | Yuhan Chen
 
