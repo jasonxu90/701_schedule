@@ -14,7 +14,7 @@
 | Feb 1 | Propensity Score Weighting Analysis for Survival Outcomes Using Pseudo Observations  | Shuxi Zeng |
 | Feb 8 | Ergodic theory for lower probability kinematics | Michele Caprio |
 | Feb 15 | An Empirical Understanding of Fast Adversarial Training | Bai Li |
-| Feb 22 | Fiber Bundles in Probabilistic Models  | Henry Kirveslahti |
+| Feb 22 | Lifting Euler Characteristic Transforms  | Henry Kirveslahti |
 | Mar 1 | | |
 | Mar 8 | | Jordan Bryan | 
 | Mar 15 | Nearest Neighbor Dirichlet Process | Shounak Chattopadhyay |
