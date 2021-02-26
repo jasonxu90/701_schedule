@@ -19,6 +19,8 @@
 | Mar 8 | |  | 
 | Mar 15 | Nearest Neighbor Dirichlet Process | Shounak Chattopadhyay |
 | Mar 22 |  | Yuhan Chen
+| Mar 29 | | |
+| Apr 5 | | Becky Tang |
 
 
 
