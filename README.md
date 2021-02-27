@@ -6,6 +6,8 @@
 
 *Time*: M 3:30-4:20pm ET
 
+*NEW*: Faculty talks will be occurring as well on the Wednesday times. They are interspersed in the schedule below but will use the following link instead: https://duke.zoom.us/j/92974707204 
+
 *Schedule*:
 
 | Date | Talk | Presenter |
@@ -16,11 +18,19 @@
 | Feb 15 | An Empirical Understanding of Fast Adversarial Training | Bai Li |
 | Feb 22 | Lifting Euler Characteristic Transforms  | Henry Kirveslahti |
 | Mar 1 | | Jordan Bryan | 
+| Mar 3 | Faculty Talks | Galen Reeves and Sayan Mukherjee |
 | Mar 8 | No Seminar | - |
 | Mar 15 | Nearest Neighbor Dirichlet Process | Shounak Chattopadhyay |
-| Mar 22 |  | Yuhan Chen
+| Mar 22 |  | Yuhan Chen |
+| Mar 24| Faculty Talk | David Banks |
 | Mar 29 | | |
+| Mar 31 | Faculty Talks | Fan Li and Jason Xu |
 | Apr 5 | | Becky Tang |
+| Apr 7 | Faculty Talk | Alex Volfovsky |
+| Apr 12 | | |
+| Apr 14 | Faculty Talks | Jerry Reiter and David Dunson |
+| Apr 19 | | |
+| Apr 21 | Faculty Talk | Peter Hoff |
 
 
 
