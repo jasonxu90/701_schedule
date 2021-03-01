@@ -27,7 +27,7 @@
 | Mar 31 | Faculty Talks | Fan Li and Jason Xu |
 | Apr 5 | | Becky Tang |
 | Apr 7 | Faculty Talk | Alex Volfovsky |
-| Apr 12 | | |
+| Apr 12 | | Patrick LeBlanc |
 | Apr 14 | Faculty Talks | Jerry Reiter and David Dunson |
 | Apr 19 | | |
 | Apr 21 | Faculty Talk | Peter Hoff |
