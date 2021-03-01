@@ -17,10 +17,10 @@
 | Feb 8 | Ergodic theory for lower probability kinematics | Michele Caprio |
 | Feb 15 | An Empirical Understanding of Fast Adversarial Training | Bai Li |
 | Feb 22 | Lifting Euler Characteristic Transforms  | Henry Kirveslahti |
-| Mar 1 | | Jordan Bryan | 
+| Mar 1 | Semiparametric Inference with Meta-variables | Jordan Bryan | 
 | Mar 3 | Faculty Talks | Galen Reeves and Sayan Mukherjee |
 | Mar 8 | No Seminar | - |
-| Mar 15 | Nearest Neighbor Dirichlet Process | Shounak Chattopadhyay |
+| Mar 15 | Synergistic Interactions between Exposures | Shounak Chattopadhyay |
 | Mar 22 |  | Yuhan Chen |
 | Mar 24| Faculty Talk | David Banks |
 | Mar 29 | | |
