@@ -21,7 +21,7 @@
 | Mar 3 | Faculty Talks | Galen Reeves and Sayan Mukherjee |
 | Mar 8 | No Seminar | - |
 | Mar 15 | Synergistic Interactions between Exposures | Shounak Chattopadhyay |
-| Mar 22 |  |  |
+| Mar 22 | Randomized graph clustering II | Heather Matthews |
 | Mar 24| Faculty Talk | David Banks |
 | Mar 29 | Locally Adaptive Bayes Nonparametric Regression | Yuhan Chen | 
 | Mar 31 | Faculty Talks | Fan Li and Jason Xu |
