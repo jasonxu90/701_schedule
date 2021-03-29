@@ -25,7 +25,7 @@
 | Mar 24| Faculty Talk | David Banks |
 | Mar 29 | Thresholded Dirichlet distributions for Sparse Modeling of Probabilities | Yuhan Chen | 
 | Mar 31 | Faculty Talks | Fan Li and Jason Xu |
-| Apr 5 | | Becky Tang |
+| Apr 5 | Zero-Inflated Beta Regression Modeling | Becky Tang |
 | Apr 7 | Faculty Talk | Alex Volfovsky |
 | Apr 12 | | Patrick LeBlanc |
 | Apr 14 | Faculty Talks | Jerry Reiter and David Dunson |
