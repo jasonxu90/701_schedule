@@ -27,9 +27,9 @@
 | Mar 31 | Faculty Talks | Fan Li and Jason Xu |
 | Apr 5 | Zero-Inflated Beta Regression Modeling | Becky Tang |
 | Apr 7 | Faculty Talk | Alex Volfovsky |
-| Apr 12 | | Patrick LeBlanc |
+| Apr 12 | No 701 seminar | Assistant PoP Job Talk |
 | Apr 14 | Faculty Talks | Jerry Reiter and David Dunson |
-| Apr 19 | | |
+| Apr 19 | |  Patrick LeBlanc |
 | Apr 21 | Faculty Talk | Peter Hoff |
 
 
