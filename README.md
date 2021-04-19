@@ -29,7 +29,7 @@
 | Apr 7 | Faculty Talk | Alex Volfovsky |
 | Apr 12 | No 701 seminar | Assistant PoP Job Talk |
 | Apr 14 | Faculty Talks | Jerry Reiter and David Dunson |
-| Apr 19 | |  Patrick LeBlanc |
+| Apr 19 | Using Topic Models to Identify Latent Microbial Subcommunities |  Patrick LeBlanc |
 | Apr 21 | Faculty Talk | Peter Hoff |
 
 
